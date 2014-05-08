@@ -3,6 +3,8 @@ minifier
 
 Minify css and javascript output
 
+Licensed under Apache 2 License
+
 Example
 
 	$css_files = array(
